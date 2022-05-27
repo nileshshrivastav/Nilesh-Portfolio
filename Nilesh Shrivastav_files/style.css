@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background: rgb(26, 25, 25);
+}
+.home{
+    position: relative;
+    height: 730px;
+}
+.header{
+    background-color: rgb(10, 10, 10);
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 70px;
+}
+h1{
+    color: #fff;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    position: relative;
+     top: 20px;
+     margin-left: 12%;
+} 
+button{
+    position: relative;
+    height: 30px;
+    width: 80px;
+    background: none;
+    border: none;
+    color: #fff;
+}
+.icons{
+    height: 20px;
+    width: 20px;
+}
+.projects-home{
+    position: absolute;
+    left: 65%;
+    top: 30px;
+}
+.skills-home{
+    position: absolute;
+    left: 75%;
+    top: 30px;
+}
+.contact-home{
+    position: absolute;
+    left: 85%;
+    top: 30px;
+}
+.home-text{
+    position: absolute;
+    top: 170px;
+    left: 23%;
+    color: #fff;
+    font-size: 80px;
+    border-bottom: 4px solid  #fff;
+    border-bottom-style: double;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 90px;
+}
+.coding{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 12%;
+}
+.coding-text{
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 2.6;
+}
+.coding-para{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    width: 370px;
+}
+.design{
+    position: absolute;
+    margin-left: 42%;
+    margin-top: 30%;
+}
+.design-text{
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 2.6;
+}
+.design-para{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    width: 370px;
+}
+.growth{
+    position: absolute;
+    margin-left: 73%;
+    margin-top: 30%;
+}
+.growth-text{
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 2.6;
+}
+.growth-para{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    width: 370px;
+}
+.mid-section{
+    background: #fff;
+    height: 500px;
+}
+.mid-section-title{
+    position: absolute;
+    top: 715px;
+    left: 40%;
+    color: rgb(37, 36, 36);
+    background: #fff;
+    height: 25px;
+   width: 300px;
+   font-size: 15px;
+   border: none;
+   padding: 0 100px;
+}
